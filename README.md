@@ -1,2 +1,2 @@
 This is the repository of images, from SD-198, as a sub cluster for the study Deep Learning for Clinical Skin Cancer Detection and Classification for Asian Skin by Julie Ann A. Salido.
-This repository contains compiled skin lession images for Actinic keratosis, Haemagioma,  and reference files for the project.
+This repository contains compiled skin lession images for Actinic keratosis, Angioma, Basal_Cell_Carcinoma, Dermatofibroma, Granuloma_Annulare, Mel (Malignant melanoma/melanoma), Nevus (Melanocytic nevus), SebKer (Seborrhoeic Keratosis)  and reference files for the project.
